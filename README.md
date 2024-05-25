@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarma-anurag25
 - 👀 I’m interested in learning and deploying new concepts
-- 🌱 I’m currently learning web development with full stack development as priority
+- 🌱 I’m currently learning advancements in the field of data science
 - 📫 You can reach me by dropping a mail at anuragsarma26@gmail.com
 
 <!---
